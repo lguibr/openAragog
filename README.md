@@ -1,6 +1,6 @@
-##Aragog a simple and smart scraper spider
+## Aragog a simple and smart scraper spider
 
-##Aragog is a simple and intelligent spider of the Internet that scrapes
+## Aragog is a simple and intelligent spider of the Internet that scrapes
  data of public resources by the transparency transparency portal of 
   the National Fund of Education Development (FNDE).
 
@@ -12,7 +12,7 @@
 
 
  
-##Aragog é uma aranha simples e inteligente da Internet que raspa 
+## Aragog é uma aranha simples e inteligente da Internet que raspa 
  dados de recursos públicos pelo portal de transparência do governo o 
  Fundo Nacional de Desenvolvimento da Educação (FNDE).
 
