@@ -1,0 +1,24 @@
+{
+  "name": "openaragog",
+  "version": "1.0.0",
+  "description": "Aragog a simple and smart scraper spider",
+  "main": "aragog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lguibr/openAragog.git"
+  },
+  "keywords": [
+    "scrapper",
+    "parse",
+    "spider"
+  ],
+  "author": "Luís Guilherme Pelin Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lguibr/openAragog/issues"
+  },
+  "homepage": "https://github.com/lguibr/openAragog#readme"
+}
