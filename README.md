@@ -6,7 +6,7 @@ a governamental API that response with a document (DOM) with tables of values of
 
 ## Technologies used
 
-##React Electron and Material-UI Base
+## React Electron and Material-UI Base
 First i cloned my own repository for a easy start
 https://github.com/lguibr/react-electr-mui-boilerplate
 
