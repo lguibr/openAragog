@@ -39,5 +39,5 @@ To build the final aplication and because of the needed of acess of the native s
 ![PrintScreen of UI](https://raw.githubusercontent.com/lguibr/Scrappedu/src/Screenshot%20from%202018-07-23%2002-35-13.png)
 
 
-This proeject is a gift for my biggest hero ever, my father. I love you.
+This project is a gift for my biggest hero ever, my father. I love you.
 
