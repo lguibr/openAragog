@@ -1,0 +1,39 @@
+{
+  "name": "scrapper-edu",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^1.4.0",
+    "axios": "^0.18.0",
+    "electron": "^2.0.5",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.11.0",
+    "querystring": "^0.2.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "main": "src/electron-starter.js",
+  "homepage": ".",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "electron": "electron .",
+    "dev": "nf start"
+  },
+  "devDependencies": {
+    "foreman": "^3.0.1"
+  },
+  "description": "a simple scraper",
+  "keywords": [
+    "scrapper",
+    "web crawler",
+    "parse"
+  ],
+  "author": "Luis Guilherme Pelin Martins",
+  "license": "ISC",
+  "repository": "no"
+}
