@@ -45,12 +45,11 @@ https://material-ui.com/
 To build the final aplication and because of the needed of acess of the native storage.
 https://electronjs.org/
 
-![PrintScreen of Aragog Running](https://raw.githubusercontent.com/lguibr/openAragog/master/ss.png)
-Running without interface
+![Desktop](https://raw.githubusercontent.com/lguibr/lguibr.github.io/source/Screenshot%20from%202018-07-23%2003-50-50.png)
+Desktop
 
-
-![PrintScreen of UI](https://raw.githubusercontent.com/lguibr/Scrappedu/src/Screenshot%20from%202018-07-23%2002-35-13.png)
-Interface in development
+![Mobile](https://raw.githubusercontent.com/lguibr/lguibr.github.io/source/Screenshot_2018-07-23-03-48-36.jpg)
+Mobile
 
 This project is a gift for my biggest hero ever, my father. I love you.
 
