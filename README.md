@@ -6,9 +6,13 @@ a governamental API that response with a document (DOM) with tables of values of
 
 ## Technologies used
 
+##React Electron and Material-UI Base
+First i cloned my own repository for a easy start
+https://github.com/lguibr/react-electr-mui-boilerplate
+
 ## React
 
-First i create a project with create-react-app, what implies in the boilerplate HTML, CSS and JS
+Implies in the boilerplate HTML, CSS and JS
 mounted by Virtual Document Object Model of the React.
 
 ## Axios
@@ -36,6 +40,8 @@ Because i love material design and Material-UI is awesome <3
 To build the final aplication and because of the needed of acess of the native storage.
 
 ![PrintScreen of Aragog Running](https://raw.githubusercontent.com/lguibr/openAragog/master/ss.png)
+
+
 ![PrintScreen of UI](https://raw.githubusercontent.com/lguibr/Scrappedu/src/Screenshot%20from%202018-07-23%2002-35-13.png)
 
 
