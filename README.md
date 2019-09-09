@@ -48,6 +48,3 @@ https://electronjs.org/
 ![PrintScreen of Aragog Running](https://raw.githubusercontent.com/lguibr/openAragog/master/ss.png)
 
 ![PrintScreen of Aragog Running](https://raw.githubusercontent.com/lguibr/Scrappedu/src/Screenshot%20from%202018-07-23%2002-35-13.png)
-
-This project is a gift for my biggest hero ever, my father. I love you.
-
