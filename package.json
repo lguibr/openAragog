@@ -7,7 +7,7 @@
     "axios": "^0.18.0",
     "electron": "^2.0.5",
     "fs": "^0.0.1-security",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsdom": "^11.11.0",
     "querystring": "^0.2.0",
     "react": "^16.4.1",
