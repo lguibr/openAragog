@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^1.4.0",
     "axios": "^0.18.0",
-    "electron": "^2.0.5",
+    "electron": "^7.2.4",
     "fs": "^0.0.1-security",
     "jquery": "^3.3.1",
     "jsdom": "^11.11.0",
